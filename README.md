@@ -1,2 +1,3 @@
 # PRODIGY_DS_04
 This one is prodigy internship task four
+In this project, I performed sentiment analysis on product-related text data. The process involved cleaning the text using regular expressions, transforming it into a numerical format with a vectorizer, and building a classification model to predict sentiment. I evaluated the model using a confusion matrix and accuracy metrics, which helped identify how well positive, negative, and neutral sentiments were classified. The analysis revealed key patterns and trends in customer opinions, providing insights into overall sentiment and areas for potential product improvement.
